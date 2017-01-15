@@ -165,10 +165,12 @@ figure {
 /* FOOTER styles */
 .site-footer {
   text-align: center;
+
 }
 
 .footer-nav {
   padding: 1em;
+  position: fixed;
 }
 
 .footer-nav-item {
